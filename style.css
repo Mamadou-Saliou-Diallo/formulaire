@@ -1,0 +1,173 @@
+body{
+    background-color: #9ACD32;
+}
+.h01{
+    background-color: #e2f4bd;
+    text-align: center;
+    height: 60px;
+    border: 3px solid white;
+}
+.pn{
+    margin-left: 34px;
+    font-weight: bold;
+}
+.ee{
+    margin-left: 56px;
+    font-weight: bold;
+}
+.op{
+    width: 170px;
+    height: 22px;
+}
+.div2{
+    border: 3px solid white;
+}p{
+    margin-top: -12px;
+    margin-left: 10px;
+    width: 90px;
+    background-color: #9ACD32;
+    font-weight: bold;
+}
+.em{
+    margin-left: 40px;
+    font-weight: bold;
+}
+.es{
+    font-weight: bold;
+}
+.img{
+    margin-left: 700px;
+    margin-top: -180px;
+}
+.divt{
+    border: 3px solid white;
+    padding-top: 0px;
+    margin-top: 50px;
+}
+.hh{
+    margin-top: -18px;
+    margin-left: 10px;
+    width: 140px;
+    background-color: #9ACD32;
+}
+.md{
+    padding-left:  20px;
+    font-weight: bold;
+}
+span{
+    font-weight: normal;
+}
+.mds{
+    padding-left:  46px;
+    font-weight: bold;
+}
+.h4{
+    margin-left: 22px;
+}
+.h5{
+    margin-left: 42px;
+}
+.jl{
+    margin-left: 20px;
+}
+.pp{
+    width: 1320px;
+    height: 40px;
+    background-color: white;
+}
+.for{
+    margin-top: 20px;
+    margin-left: 1020px;
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    height: 25px;
+}
+.h011{
+    
+    background-color: #e2f4bd;
+    text-align: center;
+    height: 60px;
+    border: 3px solid white;
+}
+.im{
+    margin-top: -105px;
+    margin-left: 20px;
+}
+.div12{
+    padding-top: 20px;
+    padding: 20px;
+    font-weight: bold;
+}
+.ent{
+    margin-left: 8px;
+}
+.vcl{
+    margin-left: 40px;
+}
+.vcl{
+    width: 180px;
+    height: 31px;
+}
+.ema{
+    margin-left: 65px;
+}
+.vmp{
+    margin-left: 23px;
+}
+.sub{
+    margin-left: 200px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+.div12{
+    margin-left: 400px;
+}
+.vpn{
+    width: 170px;
+    height: 26px;
+}
+.bod{
+    background-color: #52BE80 ;
+}
+.div01{
+    border: 2px solid white;
+    background-color: white;
+    width: 400px;
+    height: 350px;
+    margin-left: 30%;
+    margin-top: 150px;
+}.h02{
+    text-align: center;
+    font-weight: 500;
+}
+.pls{
+    text-align: center;
+    width: 390px;
+    background-color: white;
+    font-weight: 400;
+}
+.imp{
+    width: 200px;
+    height: 30px;
+    margin-left: 80px;
+}
+.inpuo{
+    background-color:#52BE80;
+    width: 210px;
+    margin-left: 80px;
+    height: 30px;
+    border: none;
+    color: white;
+}
+.inpu{
+    width: 230px;
+    margin-top: 10px;
+    margin-left: 60px;
+    background-color: white;
+    font-weight: 100;
+}
+.sp{
+    color: #52BE80;
+}
